@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1612803317 source:c:\users\render\desktop\test\tp\main.cpp
+	<iostream>
+	"Zombie.h"
+
+1612802934 c:\users\render\desktop\test\tp\include\zombie.h
+	<string>
+	<iostream>
+
+1612803439 source:c:\users\render\desktop\test\tp\src\zombie.cpp
+	"Zombie.h"
+
+1612957298 source:d:\prog\tp\main.cpp
+	<iostream>
+	"Zombie.h"
+	"Bomber.h"
+	"Rapace.h"
+
+1612956502 d:\prog\tp\include\zombie.h
+	<string>
+	<iostream>
+
+1612956788 source:d:\prog\tp\src\zombie.cpp
+	"Zombie.h"
+
+1612956550 source:d:\prog\tp\src\bomber.cpp
+	"Bomber.h"
+
+1612956004 d:\prog\tp\include\bomber.h
+	"Zombie.h"
+
+1612957186 source:d:\prog\tp\src\rapace.cpp
+	"Rapace.h"
+
+1612957168 d:\prog\tp\include\rapace.h
+	"Zombie.h"
+
